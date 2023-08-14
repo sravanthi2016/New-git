@@ -18,5 +18,6 @@ re1) Hawaii Governor Josh Green has said that the number of confirmed deaths fro
 7) As per Maui County estimates, over 80 percent of the structures in Lahaina were damaged or destroyed and around 4,500 residents are in need of shelter. 
 
 8) Hawaii wants to work with Airbnb to ensure that rental homes are available for locals. The  Governor hopes that Airbnb can provide homes with three to nine-month rentals available. 
+iam creating git new commands
 
 9) Hawaii Senator Mazie Hirono while speaking at CNN's ‘State of Union’ on Sunday said that the Attorney General has launched a review as to why there were no warning signs alerting people to the danger around the wildfires which would have allowed people to flee before the flames consumed the town.moving lines
